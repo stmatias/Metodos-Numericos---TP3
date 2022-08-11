@@ -1,0 +1,7 @@
+data/test.csv
+data/train.csv
+build
+cmake
+cmake-build-debug
+Devolucion
+.idea
